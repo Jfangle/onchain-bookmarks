@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Node dependencies
+node_modules/
